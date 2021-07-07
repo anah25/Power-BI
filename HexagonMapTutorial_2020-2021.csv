@@ -1,0 +1,52 @@
+Code,State,Column,Row,Data
+AL,Alabama,7.5,3,35
+AK,Alaska,0.5,9,64
+AZ,Arizona,3,4,60
+AR,Arkansas,6,4,40
+CA,California,2,4,50
+CO,Colorado,3.5,5,53
+CT,Connecticut,11,6,45
+DE,Delaware,9.5,5,34
+DC,District of Columbia,12,4,30
+FL,Florida,8.5,1,43
+GA,Georgia,8,2,33
+HI,Hawaii,0.5,1,100
+ID,Idaho,2,6,50
+IL,Illinois,6,6,40
+IN,Indiana,7,6,43
+IA,Iowa,5,6,42
+KS,Kansas,5,4,36
+KY,Kentucky,6.5,5,43
+LA,Louisiana,5.5,3,36
+ME,Maine,11.5,9,53
+MD,Maryland,8.5,5,35
+MA,Massachusetts,10.5,7,44
+MI,Michigan,7.5,7,39
+MN,Minnesota,4.5,7,39
+MS,Mississippi,6.5,3,33
+MO,Missouri,5.5,5,40
+MT,Montana,2.5,7,57
+NE,Nebraska,4.5,5,39
+NV,Nevada,2.5,5,64
+NH,New Hampshire,11,8,40
+NJ,New Jersey,10,6,37
+NM,New Mexico,3.5,3,64
+NY,New York,9.5,7,44
+NC,North Carolina,9,4,37
+ND,North Dakota,3.5,7,46
+OH,Ohio,8,6,39
+OK,Oklahoma,4.5,3,45
+OR,Oregon,1.5,5,60
+PA,Pennsylvania,9,6,38
+RI,Rhode Island,11.5,7,56
+SC,South Carolina,8.5,3,41
+SD,South Dakota,4,6,46
+TN,Tennessee,7,4,43
+TX,Texas,4,2,39
+UT,Utah,4,4,41
+VT,Vermont,10,8,46
+VA,Virginia,8,4,41
+WA,Washington,1.5,7,48
+WV,West Virginia,7.5,5,54
+WI,Wisconsin,5.5,7,41
+WY,Wyoming,3,6,56
