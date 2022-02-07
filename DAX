@@ -1,0 +1,17 @@
+Highlight Name =
+VAR selectedname =
+    VALUES ( 'Selected Names'[Name] )
+VAR namehighlight =
+    VALUES ( 'Books Dataset'[Name] )
+VAR filtered =
+    ISFILTERED ( 'Selected Names'[Name] )
+VAR result =
+    SWITCH (
+        TRUE,
+        NOT ( filtered ), "#B3AFDC",
+        namehighlight
+            IN selectedname && filtered, "#79EAD4",
+        "#B3AFDC"
+    )
+RETURN
+    result
